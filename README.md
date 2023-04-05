@@ -1,11 +1,11 @@
 # Tugas Pemograman Mobile 2
 ## Profil
-| #               | Biodata           |
-| --------------- | ----------------- |
-| **Nama**        | Afif Firmansyah   |
-| **NIM**         | 312110232         |
-| **Kelas**       | TI.21.A.1         |
-| **Mata Kuliah** | Pemrograman Web 2 |
+| #               | Biodata              |
+| --------------- | -------------------- |
+| **Nama**        | Afif Firmansyah      |
+| **NIM**         | 312110232            |
+| **Kelas**       | TI.21.A.1            |
+| **Mata Kuliah** | Pemrograman Mobile 2 |
 
 ## Latihan 1
 
